@@ -2,7 +2,7 @@ package com.example.jaxrs;
 
 import com.example.jaxrs.entities.Compte;
 import com.example.jaxrs.entities.TypeCompte;
-import com.example.jaxrs.repository.CompteRepository;
+import com.example.jaxrs.repositories.CompteRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
