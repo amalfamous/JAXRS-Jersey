@@ -54,13 +54,15 @@ GET http://localhost:8082/banque/comptes
 ```
 <img width="1919" height="324" alt="Screenshot 2025-10-27 164352" src="https://github.com/user-attachments/assets/6ad2d25e-1bbf-4e8d-8f13-74ac3476e736" />
 
-<img width="1389" height="767" alt="Screenshot 2025-10-27 160632" src="https://github.com/user-attachments/assets/17229fd8-5234-4c37-bc6a-03bd86f342ea" />
+```
+
+### Accès à la console H2
 
 ```
-### Accès à la console H2
-```
 <img width="1389" height="767" alt="Screenshot 2025-10-27 160632" src="https://github.com/user-attachments/assets/6e62151b-b55e-4b80-820f-b13ed4ac9d3d" />
+
 ```
+
 ### Initialisation des données
 
 Au démarrage, l'application crée automatiquement 3 comptes avec des soldes aléatoires :
