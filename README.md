@@ -55,8 +55,8 @@ GET http://localhost:8082/banque/comptes
 <img width="1919" height="324" alt="Screenshot 2025-10-27 164352" src="https://github.com/user-attachments/assets/6ad2d25e-1bbf-4e8d-8f13-74ac3476e736" />
 
 ```
-Accès à la console H2
-![WhatsApp Image 2025-10-27 at 16 06 38_944ab7a9](https://github.com/user-attachments/assets/8d19e15b-0c62-4768-9bb1-2620dc597a89)
+### Accès à la console H2
+<img width="1389" height="767" alt="Screenshot 2025-10-27 160632" src="https://github.com/user-attachments/assets/6e62151b-b55e-4b80-820f-b13ed4ac9d3d" />
 
 ## Initialisation des données
 
